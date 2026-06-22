@@ -39,12 +39,10 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ningarajs01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%" />
-</div>
 
-<!-- <div align="center">
+
+ <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ningarajs01&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" width="80%"/>
-</div> -->
+</div> 
 
 ---
