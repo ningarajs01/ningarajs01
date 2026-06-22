@@ -38,7 +38,7 @@ I’m an MCA student currently focused on mastering the MERN stack while buildin
 
 
  <div align="center">
-  <img src="[https://share.google/2579E8Dq5dcgocNuF](https://raw.githubusercontent.com/jshub/.github/main/assets/javascript.gif)" width="80%"/>
+  <img src="https://raw.githubusercontent.com/jshub/.github/main/assets/javascript.gif)" width="80%"/>
 </div> 
 
 ---
