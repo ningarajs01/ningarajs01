@@ -1,4 +1,4 @@
-![MERN Developer Banner](./banner.png)
+![MERN Developer Banner](./banner.jpg)
 
 <h3 align="center">A Passionate FullStack Developer & MCA Student from India 🇮🇳</h3>
 
