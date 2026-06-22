@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Ningaraj%20Sutar!&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%"/>
+![MERN Developer Banner](./banner.png)
 
 <h3 align="center">A Passionate FullStack Developer & MCA Student from India 🇮🇳</h3>
 
@@ -38,7 +38,7 @@ I’m an MCA student currently focused on mastering the MERN stack while buildin
 
 
  <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ningarajs01&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" width="80%"/>
+  <img src="https://share.google/2579E8Dq5dcgocNuF" width="80%"/>
 </div> 
 
 ---
