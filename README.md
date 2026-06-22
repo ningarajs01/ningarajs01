@@ -9,12 +9,7 @@
 <br/>
 
 ## 💫 About Me:
-- 🎓 I’m currently pursuing my MCA and mastering the MERN Stack.
-- 🏗️ Building robust full-stack business solutions and inventory management applications.
-- 🐧 Enthusiast of Linux customization, terminal magic, and UI tweaking.
-- 💬 Ask me about **MERN, Java, SQL, or Android**.
-- ⚡ Fun fact: I'm Funny!
-
+I’m an MCA student currently focused on mastering the MERN stack while building scalable full-stack applications like business solutions and inventory management systems. I enjoy working with modern web technologies and turning ideas into practical, real-world projects. Outside development, I’m passionate about Linux customization, terminal workflows, and clean UI design.
 ## 🌐 Socials:
 <p align="left">
   <!-- Apne asli links in "#" ki jagah daal dena -->
