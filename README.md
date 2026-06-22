@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)
+![MasterHead][github.com/kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
 <h1 align="center">Hi 👋, I'm Ningaraj Sutar</h1>
 <h3 align="center">A Passionate FullStack Developer from India</h3>
 
